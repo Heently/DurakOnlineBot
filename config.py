@@ -2,6 +2,6 @@ SIGN_KEY = 'oc3q7ingf978mx457fgk4587fg847'
 RUCAPTCHA_KEY = ''
 NAME = ''
 USER_ID = 0
-TOKEN = ''
+TOKEN = ''оо
 HUMAN_CAPTCHA_SOLVE = True
 level = 'INFO'
